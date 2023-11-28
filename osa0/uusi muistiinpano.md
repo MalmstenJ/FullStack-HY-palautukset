@@ -1,1 +1,3 @@
-testi
+sequenceDiagram
+    participant browser
+    participant server
